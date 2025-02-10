@@ -14,6 +14,7 @@
 
 
 [<img align="left" alt="Cade | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Cade | Indeed" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/indeed.svg" />][indeed]
 
 [linkedin]: www.linkedin.com/in/cade-kennedy-a4a3052b9
 [Indeed]: https://profile.indeed.com/p/cadek-3k7r31w
